@@ -13,8 +13,6 @@ Pós-graduado em Data Science e Analytics com 2 anos de estudos dedicado à áre
 ## Skills
 Language: Python, SQL
 Data Processing & Analysis: Pandas, NumPy
-Machine Learning: Scikit-learn, XGBoost, Random Forest, KNN, Logistic Regression
+Machine Learning: Scikit-learn, XGBoost, Random Forest, KNN, Logistic Regression, Linear Regression...
 API Development: Flask
 Deployment & Hosting: Render
-Integration: Google Apps Script
-
