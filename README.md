@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Francisco Casanova
 
 ## Cientista de Dados / Analista de Dados
-Pós-graduado em Data Science e Analytics com 2 anos de estudos dedicado à área. Sou capaz de criar projetos de Machine Learning em Python e SQL, desde a concepção até o deploy.
+Postgraduate in Data Science and Analytics with two years of dedicated study in the field. I am capable of building end-to-end Machine Learning projects in Python and SQL, from conception to deployment.
 
 - 🌍  I'm based in Brazil
 - ✉️  You can contact me at chicocasanova@gmail.com
@@ -11,8 +11,8 @@ Pós-graduado em Data Science e Analytics com 2 anos de estudos dedicado à áre
 - ⚡  Send me "Hi" and Let's work together!
 
 ## Skills
-Language: Python, SQL
-Data Processing & Analysis: Pandas, NumPy
-Machine Learning: Scikit-learn, XGBoost, Random Forest, KNN, Logistic Regression, Linear Regression...
-API Development: Flask
-Deployment & Hosting: Render
+- Language: Python, SQL
+- Data Processing & Analysis: Pandas, NumPy
+- Machine Learning: Scikit-learn, XGBoost, Random Forest, KNN, Logistic Regression, Linear Regression...
+- API Development: Flask
+- Deployment & Hosting: Render
